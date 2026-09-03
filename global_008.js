@@ -111,9 +111,9 @@ function TopHeight() {
 	var heightTop2 =0; 
 	if ($('.Courant').size()>0) {
 		var Couranttop = $('.Courant').position().top; 
-		var Courantheight = $('.Courant').height()
+		var Courantheight = $('.Courant').height();
 		heightTop1=Couranttop+Courantheight;
-
+		$(".courant table:first").css({'min-height': Courantheight+'px'});
 
 	} 
 	

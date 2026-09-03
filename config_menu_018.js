@@ -124,6 +124,7 @@ var menuItems = [
 ["Thesis","javascript:document.location='thesis_044.htm'",iconDefault[0],iconDefault[1],"", , "0", "0", , ],
 ["CV","javascript:document.location='cv_039.htm'",iconDefault[0],iconDefault[1],"", , "0", "0", , ],
 ["Teaching","javascript:document.location='teaching_046.htm'",iconDefault[0],iconDefault[1],"", , "0", "0", , ],
+["Communications","javascript:document.location='communications_050.htm'",iconDefault[0],iconDefault[1],"", , "0", "0", , ],
 ];
 //src="MenuImage/empty.gif"
 //src="MenuImage/smenu.gif"

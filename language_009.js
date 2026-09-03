@@ -100,7 +100,15 @@ if (navigator.language){
   language="en"
 }
 
-
+switch(language) {
+    case "fr-FR":
+        language = "fr";
+        break;
+    case "en-GB":
+	case "en-US":
+        language = "en";
+        break;
+}
 
 
 // fonction de verification de l'existance d'un objet HTML
