@@ -25,12 +25,12 @@ num_fichier;date_update;format;url_interne;url_export;nom_ext;paramperso;actif;t
 18;03/09/2026;Page;config_menu.asp?num_langue=7;config_menu_018.js;.js;;Vrai;4004
 39;03/09/2026;Page;download.asp?num_page=29&num_langue=7;cv_039.htm;.htm;;Vrai;12039
 44;03/09/2026;Page;download.asp?num_page=32&num_langue=7;thesis_044.htm;.htm;;Vrai;12438
-1;03/09/2026;Page;index.asp;index.htm;.htm;;Vrai;15946
-27;03/09/2026;Page;index.asp?num_page=5&num_langue=7&flash=non;home_027.htm;.htm;;Vrai;15946
-41;03/09/2026;Page;perso.asp?num_page=30&num_langue=7;publication_041.htm;.htm;;Vrai;111994
+1;03/09/2026;Page;index.asp;index.htm;.htm;;Vrai;15920
+27;03/09/2026;Page;index.asp?num_page=5&num_langue=7&flash=non;home_027.htm;.htm;;Vrai;15920
+41;03/09/2026;Page;perso.asp?num_page=30&num_langue=7;publication_041.htm;.htm;;Vrai;112033
 42;03/09/2026;Page;perso.asp?num_page=31&num_langue=7;research_042.htm;.htm;;Vrai;14493
-46;03/09/2026;Page;perso.asp?num_page=34&num_langue=7;teaching_046.htm;.htm;;Vrai;11616
-50;03/09/2026;Page;perso.asp?num_page=38&num_langue=7;communications_050.htm;.htm;;Vrai;17975
+46;03/09/2026;Page;perso.asp?num_page=34&num_langue=7;teaching_046.htm;.htm;;Vrai;11663
+50;03/09/2026;Page;perso.asp?num_page=38&num_langue=7;communications_050.htm;.htm;;Vrai;17941
 45;03/09/2026;ZFile;zip.hdx?RepertoireZip=Files&NomFichierZip=2%5Fchekroun%5Fthesis%5Flyon1%2Epdf;Files/2_chekroun_thesis_lyon1.pdf;;;Vrai;5936238
 51;03/09/2026;ZFile;zip.hdx?RepertoireZip=Files&NomFichierZip=5%5Fcv%5F2026%5Fchekroun%5Fenglish%2Epdf;Files/5_cv_2026_chekroun_english.pdf;;;Vrai;832942
 52;03/09/2026;ZFile;zip.hdx?RepertoireZip=Files&NomFichierZip=6%5Fcv%5Fchekroun%5F2026fr%2Epdf;Files/6_cv_chekroun_2026fr.pdf;;;Vrai;645108
